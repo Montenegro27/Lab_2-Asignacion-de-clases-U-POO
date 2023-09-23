@@ -1,0 +1,6 @@
+ID_SEDE, ID_EDIFICIO, NIVEL, ID_SALON, CAPACIDAD
+1, Edificio A, 1, Sala 101, 30
+1, Edificio A, 1, Sala 102, 25
+1, Edificio B, 1, Sala 201, 40
+2, Edificio C, 2, Sala 301, 35
+2, Edificio C, 2, Sala 302, 20

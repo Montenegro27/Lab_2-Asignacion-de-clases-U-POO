@@ -1,0 +1,6 @@
+ID_CURSO, ID_SEDE, NOMBRE_CURSO, DIAS, HORARIO, DURACION, CANTIDAD_ESTUDIANTES
+1, 1, Matemáticas 101, LUNES,1,2, 10
+2, 1, Historia del Arte, MIERCOLES,2,3, 20
+3, 2, Programación Avanzada, LUNES,3,1, 15
+4, 2, Literatura Comparada, MARTES,5,2, 9
+5, 2, Química Orgánica, LUNES,1,1, 11
